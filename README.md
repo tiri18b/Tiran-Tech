@@ -1,4 +1,4 @@
-# Yehuda Benisti - IT Portfolio
+# Tiran Benisti - IT Portfolio
 
 ## About Me
 IT Specialist focused on System Administration, Networking, SQL and Automation.
