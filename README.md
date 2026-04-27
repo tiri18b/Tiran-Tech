@@ -1,4 +1,4 @@
-# Yehuda Benisti - IT & DevOps Portfolio
+# Tiran Benisti - IT & DevOps Portfolio
 
 ## About Me
 IT Specialist focused on System Administration, Networking, SQL, Automation and DevOps.
